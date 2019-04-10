@@ -1,0 +1,25 @@
+-------------- DiscordBOT Template --------------
+
+Command 1: says "hello"
+Command 2: says "hello"
+Command 3: says "hello"
+Command 4: says "hello"
+Command 5: says "hello"
+Command 6: says "hello"
+Command 7: says "hello"
+Command 8: says "hello"
+Command 9: says "hello"
+Command 10: says "hello"
+
+OBS: You are free to choose any type o command.
+
+Prefix: !
+
+(Exclusive for those who bought the host plan)
+
+Bot name: John Smith
+Bot token: XXXXX-XXXXX.XXXXX_XXXX (Don't send it to anyone but me)
+Bot photo: imigur.com/botphoto
+
+----------- DiscordBOT Template --------------
+
